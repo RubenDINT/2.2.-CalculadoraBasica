@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:CalculadoraBasica"
         mc:Ignorable="d"
         Title="CalculadoraBasica"
+        Icon="assets\icon.ico"
         Height="284.96"
         Width="393.931">
     <Grid>
